@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.AppInput {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 20px; 
+  font-family: ariel; 
+}
+.pButton {
+  font-size: 20px;
+  color: red;
+  
+}
+
+.AppButton{
+  background-color: #4CAF50;
+  border: none;
+  margin-left: 20px;
+  color: white;
+  padding:12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.AppButton:hover {background-color: red}

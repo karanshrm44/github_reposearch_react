@@ -1,0 +1,15 @@
+.Card {
+
+display: inline-block;
+margin-left: 5px;
+border:1px solid brown;
+margin-top:10px;
+width:20%;
+
+
+}
+
+.Card:hover{
+    border-color:greenyellow;
+    border-width: medium;
+}
